@@ -1,7 +1,7 @@
 <html>
   <header></header>
   <body>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/Cerylune/website/blob/master/style.css">
 
 <ul>
   <li><a href="default.asp">Home</a></li>
