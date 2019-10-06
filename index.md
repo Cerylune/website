@@ -1,5 +1,6 @@
 <html>
-<header>
+  <header></header>
+  <body>
 <link rel="stylesheet" href="style.css">
 
 <ul>
@@ -8,8 +9,6 @@
   <li><a href="contact.asp">Contact</a></li>
   <li><a href="about.asp">About</a></li>
 </ul>
-</header>
-<body>
   test
 </body>
 </html>
