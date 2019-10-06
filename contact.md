@@ -1,5 +1,36 @@
 <html>
 <body>
+		<header>
+				<div id="header">
+
+
+					<h1 class="site-title"><a href="" >Cerylune</a></h1>
+
+
+					<div class="main-navigation">
+						<a href="javascript:void(0);" class="icon">☰</a>
+						<a href="about.html">about</a> 
+						<a href="gallery.html">gallery</a> 
+						<div class="dropdown">
+							<a class="drop-link" id="comic-link">projects</a> 		
+							<div class="drop-menu" id="comic-menu">
+								<div id="terribad">
+									<a href="terribad.html">(°□°)</a>
+								</div>
+								<a href="">shop</a>
+							</div>
+						</div>
+						<a href="">blog</a>
+					</div>
+				</div>
+			</header>
+
+
+<main>
+		<img src="" id="headerImage">
+
+<footer> </footer>  
+  
 <div class="container">
   <form action="action_page.php">
 
