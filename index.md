@@ -1,7 +1,7 @@
 <html>
   <header></header>
   <body>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <ul>
   <li><a href="default.asp">Home</a></li>
@@ -9,6 +9,7 @@
   <li><a href="contact.asp">Contact</a></li>
   <li><a href="about.asp">About</a></li>
 </ul>
+
   test
 </body>
 </html>
