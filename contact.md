@@ -1,6 +1,6 @@
 <html>
   <head>
-	  <div id="contact"></div>
+	  <div name="contact"></div>
   <title></title>
   <link href="style.css" rel="stylesheet" type="text/css">
 	  
