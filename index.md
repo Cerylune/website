@@ -6,12 +6,12 @@
   
   <body>
 
-<div class="topnav">
-  <a class="active" href="/website">Home</a>
-  <a href="/website/about">About</a>
-  <a href="/website/gallery">Gallery</a>
-  <a href="/website/contact">Contact</a>
-</div>
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
 <img href="">
 </body>
 </html>
