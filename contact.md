@@ -28,11 +28,11 @@ input[type=submit] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  float: right;
+  float: center;
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #FFD700;
 }
 
 .container {
@@ -72,12 +72,13 @@ input[type=submit]:hover {
   </head>
   
   <body>
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
+<ul class="topnav">
+  <li><a href="/website">Home</a></li>
+  <li><a href="#news">About</a></li>
+  <li><a href="gallery">Gallery</a></li>
+  <li><a href="/website/contact">Contact</a></li>
+  <li><a href="#about">Commission</a></li>
+</ul>
 <br>
 
 
