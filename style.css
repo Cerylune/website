@@ -1,5 +1,5 @@
 body { background-image: url("starbg.png"); 
- background-repeat: repeat-x;}
+ background-repeat: repeat;}
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -12,7 +12,7 @@ body { background-image: url("starbg.png");
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 0px 0px;
+  padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
 }
