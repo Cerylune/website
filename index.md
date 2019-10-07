@@ -1,6 +1,6 @@
 <html>
   <head>
-  <link href="https://cerylune.github.io/website/contact" rel="stylesheet" type="text/css">
+  <link href="https://github.com/cerylune/website/style.css" rel="stylesheet" type="text/css">
   </head>
   
   <body>
