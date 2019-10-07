@@ -84,7 +84,7 @@ input[type=submit]:hover {
 
 
 <div class="container">
-  <form action="/action_page.php">
+  <form action=""mailto:cerylune.art@gmail.com" method="post" enctype="text/plain">
   <div class="row">
     <div class="col-25">
       <label for="fname">First Name</label>
