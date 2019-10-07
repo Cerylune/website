@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+<html>
   <head>
-  <title>Cerylune</title>
+  <title></title>
   <link href="style.css" rel="stylesheet" type="text/css">
   </head>
   
