@@ -2,55 +2,26 @@ body { background-image: url("starbg.png");
  background-repeat: repeat;}
 
 ul {
-    margin: 0;
-    padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
-.nav {
-    margin: 0 auto;
-    padding: 0;
-    width: 75%;
-    height: 2em;
+
+li {
+  float: left;
 }
-.nav ul li {
-    list-style-type: none;
-    display: inline;
-    overflow: hidden;
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
-.nav li a {
-    display: block;
-    float: left;
-    padding: 5px 10px;
-    color: #fff;
-    text-decoration: none;
-    border-right: 1px solid #fff;
-}
-.nav li a:hover {
-    background: white;
-    color: #A4A4A4;
-}
-.nav-wrapper {
-    background-color: #58ACFA;
-    padding: 1px;
-}
-.wrapper {
-    margin-right: auto;
-    margin-left: auto;
-    width: 75%;
-}
-/* this centers the internal elements */
- .centered {
-    text-align: center;
-}
-/* gives a main content window to the left that is 70% of the main */
- .content {
-    width: 70%;
-    float:left;
-}
-/* makes a sidebar to the right that is 30% of the main and floating right */
- .sidebar {
-    width: 30%;
-    float:right;
-}
-.sidebar ul {
-    padding: 10px;
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
 }
