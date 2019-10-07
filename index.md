@@ -1,7 +1,9 @@
 <html>
-  <header></header>
+  <head>
+  <link rel="stylesheet" type="text/css" href="/style.css/">
+  </head>
+  
   <body>
-<link rel="stylesheet" type="text/css" href="./style.css/">
 
 <ul>
   <li><a href="default.asp">Home</a></li>
