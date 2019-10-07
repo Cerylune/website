@@ -1,4 +1,5 @@
-body { background-image: url("starbg.png"); }
+body { background-image: url("starbg.png"); 
+ background-repeat: repeat-x;}
 
 /* Add a black background color to the top navigation */
 .topnav {
