@@ -2,7 +2,7 @@
   <head>
   <title></title>
   <link href="style.css" rel="stylesheet" type="text/css">
-	  <br><br>
+	  
 	<style>
 * {
   box-sizing: border-box;
@@ -72,14 +72,13 @@ input[type=submit]:hover {
   </head>
   
   <body>
-
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
-
+<br>
 
 
 
