@@ -7,12 +7,11 @@
   <body>
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a class="active" href="/website">Home</a>
+  <a href="/about">About</a>
+  <a href="/gallery">Gallery</a>
+  <a href="/contact">Contact</a>
 </div>
-
-  test
+<img href="">
 </body>
 </html>
