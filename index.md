@@ -1,6 +1,6 @@
 <html>
   <head>
-    <background color="#fff">
+    <background color="#000">
   <link href="style.css" rel="stylesheet" type="text/css">
   </head>
   
