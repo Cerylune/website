@@ -84,7 +84,7 @@ input[type=submit]:hover {
 
 
 <div class="container">
-  <form action="mailto:cerylune.art@gmail.com" method="post" enctype="text/plain">
+  <form action="mailto:" method="post" enctype="text/plain">
   <div class="row">
     <div class="col-25">
       <label for="fname">First Name</label>
@@ -119,7 +119,7 @@ input[type=submit]:hover {
 <table width="450px">
 <tr>
  <td valign="top">
-  <label for="first_name">First Name *</label>
+  <label for="first_name">Name</label>
  </td>
  <td valign="top">
   <input  type="text" name="first_name" maxlength="50" size="30">
@@ -127,7 +127,7 @@ input[type=submit]:hover {
 </tr>
 <tr>
  <td valign="top">
-  <label for="email">Email Address *</label>
+  <label for="email">Email</label>
  </td>
  <td valign="top">
   <input  type="text" name="email" maxlength="80" size="30">
@@ -135,7 +135,7 @@ input[type=submit]:hover {
 </tr>
 <tr>
  <td valign="top">
-  <label for="comments">Comments *</label>
+  <label for="comments">Message</label>
  </td>
  <td valign="top">
   <textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
@@ -143,7 +143,7 @@ input[type=submit]:hover {
 </tr>
 <tr>
  <td colspan="2" style="text-align:center">
-  <input type="submit" value="Submit">   <a href="http://www.freecontactform.com/email_form.php">Email Form</a>
+  <input type="submit" value="Submit">   <a href="http://www.cerylune.art@gmail.com">Email Form</a>
  </td>
 </tr>
 </table>
